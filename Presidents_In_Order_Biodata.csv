@@ -1,0 +1,47 @@
+,President (P),State of Birth (P),Term (P),Birthdate (P),Age of Inauguration (P),Previous Occupation (P),Party (P),Vice President
+0,"Washington, George",Virginia,1789–1797,2/22/1732,57,"Planter, land surveyor",No Party Designation,John Adams
+1,"Adams, John",Massachusetts,1797–1801,10/30/1735,61,"Lawyer, farmer",Federalist,Thomas Jefferson
+2,"Jefferson, Thomas",Virginia,1801–1809,4/13/1743,57,"Planter, lawyer, land surveyor, architect",Democratic-Republican,"Aaron Burr,George Clinton"
+3,"Madison, James",Virginia,1809–1817,3/16/1751,57,Planter,Democratic-Republican,"George Clinton,Elbridge Gerry"
+4,"Monroe, James",Virginia,1817–1825,4/28/1758,58,"Planter, lawyer",Democratic-Republican,Daniel D. Tompkins
+5,"Adams, John Quincy",Massachusetts,1825–1829,7/11/1767,57,Lawyer,Democratic-Republican,John C. Calhoun
+6,"Jackson, Andrew",South Carolina,1829–1837,3/15/1767,61,"Lawyer, military officer",Democratic,"John C. Calhoun,Martin Van Buren"
+7,"Van Buren, Martin",New York,1837–1841,12/5/1782,54,Lawyer,Democratic,Richard M. Johnson
+8,"Harrison, William Henry",Virginia,1841-1841,2/9/1773,68,Military,Whig,John Tyler
+9,"Tyler, John",Virginia,1841–1845,3/29/1790,51,Lawyer,Whig,None
+10,"Polk, James Knox",North Carolina,1845–1849,11/2/1795,49,"Lawyer, planter",Democratic,George M. Dallas
+11,"Taylor, Zachary",Virginia,1849–1850,11/24/1784,64,Military,Whig,Millard Fillmore
+12,"Fillmore, Millard",New York,1850–1853,1/7/1800,50,Lawyer,Whig,None
+13,"Pierce, Franklin",New Hampshire,1853–1857,11/23/1804,48,Lawyer,Democratic,William R. King
+14,"Buchanan, James",Pennsylvania,1857–1861,4/23/1791,65,Lawyer,Democratic,John C. Breckinridge
+15,"Lincoln, Abraham",Kentucky,1861–1865,2/12/1809,52,"Lawyer, land surveyor",Union,"Hannibal Hamlin,Andrew Johnson"
+16,"Johnson, Andrew",North Carolina,1865–1869,12/29/1808,56,Tailor,Union,None
+17,"Grant, Ulysses S.",Ohio,1869–1877,4/27/1822,46,Military,Republican,"Schuyler Colfax,Henry Wilson"
+18,"Hayes, Rutherford Birchard",Ohio,1877–1881,10/4/1822,54,Lawyer,Republican,William A. Wheeler
+19,"Garfield, James Abram",Ohio,1881-1881,11/19/1831,49,"Ordained minister, lawyer, teacher",Republican,Chester Alan Arthur
+20,"Arthur, Chester Alan",Vermont,1881–1885,10/5/1829,50,"Lawyer, teacher, tariff collector",Republican,None
+21,"Cleveland, Grover",New Jersey,1885–1889,3/18/1837,47,Lawyer,Democratic,Thomas Hendricks
+22,"Harrison, Benjamin",Ohio,1889–1893,8/20/1833,55,Court reporter,Republican,Levi P. Morton
+23,"Cleveland, Grover",New Jersey,1893–1897,3/18/1837,55,Lawyer,Democratic,Adlai E. Stevenson
+24,"McKinley, William",Ohio,1897–1901,1/29/1843,54,Lawyer,Republican,"Garret A. Hobart,Theodore Roosevelt"
+25,"Roosevelt, Theodore",New York,1901–1909,10/27/1858,42,"Historian, public servant, naturalist, military officer, policeman, rancher",Republican,Charles W. Fairbanks
+26,"Taft, William Howard",Ohio,1909–1913,9/15/1857,51,"Lawyer, dean",Republican,James S. Sherman
+27,"Wilson, Woodrow",Virginia,1913–1921,12/28/1856,56,Academic,Democratic,Thomas R. Marshall
+28,"Harding, Warren Gamaliel",Ohio,1921–1923,11/2/1865,55,"Journalist, publisher",Republican,Calvin Coolidge
+29,"Coolidge, Calvin",Vermont,1923–1929,7/4/1872,51,Lawyer,Republican,Charles G. Dawes
+30,"Hoover, Herbert Clark",Iowa,1929–1933,8/10/1874,54,"Businessman, mining engineer",Republican,Charles Curtis
+31,"Roosevelt, Franklin Delano",New York,1933–1945,1/30/1882,51,Lawyer,Democratic,"John Nance Garner,Henry A. Wallace,Harry S. Truman"
+32,"Truman, Harry",Missouri,1945–1953,5/8/1884,60,Farmer,Democratic,Alben W. Barkley
+33,"Eisenhower, Dwight David",Texas,1953–1961,10/14/1890,62,"Military officer, President of Columbia University",Republican,Richard Milhous Nixon
+34,"Kennedy, John Fitzgerald",Massachusetts,1961–1963,5/29/1917,43,"Journalist, military officer",Democratic,Lyndon Baines Johnson
+35,"Johnson, Lyndon Baines",Texas,1963–1969,8/27/1908,55,"Teacher, military officer, rancher",Democratic,Hubert Horatio Humphrey
+36,"Nixon, Richard Milhous",California,1969–1974,1/9/1913,56,"Lawyer, naval officer",Republican,"Spiro T. Agnew,Gerald Rudolph Ford"
+37,"Ford, Gerald Rudolph",Nebraska,1974–1977,7/14/1913,61,"Lawyer, naval officer",Republican,Nelson Rockefeller
+38,"Carter, James Earl Jr.",Georgia,1977–1981,10/1/1924,52,"Farmer, naval officer",Democratic,Walter Mondale
+39,"Reagan, Ronald Wilson",Illinois,1981–1989,2/6/1911,69,"Actor, Screen Actors Guild President",Republican,George Herbert Walker Bush
+40,"Bush, George Herbert Walker",Massachusetts,1989–1993,6/12/1924,64,"Businessman, naval aviator",Republican,J. Danforth Quayle
+41,"Clinton, William Jefferson",Arkansas,1993– 2001,8/19/1946,46,"Lawyer, law professor at the University of Arkansas",Democratic,"Albert Gore, Jr."
+42,"Bush, George Walker",Connecticut,2001–2009,7/6/46,54,"Businessman, Air National Guard pilot",Republican,Richard Cheney
+43,"Obama, Barack Hussein",Hawaii,2009-2017,8/4/61,47,"Lawyer, law professor at the University of Chicago",Democratic,Joseph Biden
+44,"Trump, Donald John",New York,2017-2021,06/14/1946,70,"Businessman, real estate developer, reality television personality",Republican,Mike Pence
+45,"Biden, Joseph, Robinette",Pennsylvania,2021,11/20/1942,78,Lawyer,Democratic,Kamala Harris
