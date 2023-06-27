@@ -1,2 +1,2 @@
 # CodeBozu-Part-2
-This projects aims to use web scraping and sentiment analysis to investigate tendencies in various news sources when referring to certain politicians.
+This Python project utilizes web scraping and sentiment analysis techniques to analyze the sentiments expressed about politicians in news articles. The project focuses on extracting articles from popular news sources, including BBC, New York Post, National Review, Politico, and Time Magazine, and then analyzing the sentiments associated with specific politicians mentioned in those articles.
